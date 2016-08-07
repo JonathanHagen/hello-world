@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey everybody! 
+
+My name is Jonathan and this is my first attempt creating respositories in Git.
